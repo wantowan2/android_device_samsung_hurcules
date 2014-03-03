@@ -1,0 +1,2 @@
+require version-baseband=T989:UCMC1
+
